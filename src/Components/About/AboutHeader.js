@@ -9,5 +9,5 @@ function MenuHeader({ uiState, setUiState }) {
         </nav>
     );
 }
-
+// eslint-disable-next-line
 export default MenuHeader;
